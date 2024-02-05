@@ -30,16 +30,6 @@ namespace Projekt
             wykaz.DataSource = listarzeczy;
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
         private void Zadaniadowykonania_Click(object sender, EventArgs e)
         {
 
