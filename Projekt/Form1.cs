@@ -13,7 +13,7 @@ namespace Projekt
 {
     public partial class ListaRzeczyDoZrobienia : Form
     {
-        SqlConnection connection = new SqlConnection("Server=DESKTOP-A6AIHCM\\SQLEXPRESS;Database=NazwaTwojejBazyDanych;User Id=Projekt;Password=przykladowehaslo;");
+        SqlConnection connection = new SqlConnection("Server=DESKTOP-A6AIHCM\\SQLEXPRESS;Database=Projekt;User Id=Projekt;Password=przykladowehaslo;");
 
         public ListaRzeczyDoZrobienia()
         {
